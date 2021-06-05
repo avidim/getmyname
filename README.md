@@ -5,4 +5,4 @@
 
 # What is realized
 ## Registration through invite
-![Screenshot](linkgen.png)
+![github-small](linkgen.png)
