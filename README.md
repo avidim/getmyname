@@ -7,8 +7,8 @@
 <br />
 
 <h1 align=center>What is realized</h1>
-<h2 align=left>Registration through invite: 
-  <br /> 
+<h2 align=left>1. Registration by invitation</h2>
+  <h3>Admin can specify a unique profile identifier for the link (e.g. avidim) instead of the automatically generated one (e.g. id54321)</h3>
   <img src="linkgen.png" height="250" />
-  <h3>Admin can give to link unique profile id(e.g. avidim) instead of auto generated(e.g. id654321)</h3>
-</h2>
+  
+
