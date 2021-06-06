@@ -33,7 +33,7 @@
   <h3>User can add new social account link</h3>
   <img src="profile4.png" height="250" />
 
-  <h3>Those basic 5 links and every new link is not active by default, user have to edit (add account name) link in order to activate it</h3>
+  <h3>Those basic 5 links and every new added link is not active by default, user have to edit (add account name) link in order to activate it</h3>
   <img src="profile5.png" height="250" />
 
   <h3>Social account link deleting</h3>
